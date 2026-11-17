@@ -1,0 +1,177 @@
+{
+  "name": "EJ Huang",
+  "title": "Embedded System Software Engineer",
+  "location": "Zhubei City, Hsinchu County, Taiwan",
+  "email": "me97.littlej@gmail.com",
+  "mobile": "+886-972-005-978",
+  "education": [
+    [
+      "National Taipei University of Education",
+      "Sep. 2004 - Jun. 2009",
+      [
+        "Bachelor’s degree of Science",
+        "Department of mathematics and information education"
+      ]
+    ],
+    [
+      "National Taipei University",
+      "Sep. 2012 - Oct. 2015",
+      [
+        "Master’s degree of Engineering (Multimedia group) IMSLAB, major in computer vision research",
+        "http://imslab.csie.ntpu.edu.tw/",
+        "Thesis Title: Real-Time Pedestrian Detection Using Compound Contour-Based Features - CVGIP 2015"
+      ]
+    ]
+  ],
+  "skills": [
+    [
+      "Programming Language",
+      [
+        "C programming",
+        "C++ programming in Android Native Framework",
+        "C# .Net Framework Windows application",
+        "Python programming (AI application and test tools)",
+        "Automatic Test Services (Jenkins)"
+      ]
+    ],
+    [
+      "System Integration",
+      [
+        "ROS system integration",
+        "Multimedia application",
+        "BSP system integration with Linux-based systems",
+        "CAS integration with Linux-based systems",
+        "DRM integration with Linux-based systems",
+        "RDK Platform GStreamer open media framework (multimedia)",
+        "AI NPU applications integration"
+      ]
+    ],
+    [
+      "Auto Test Utility Program",
+      [
+        "GIT, Gerrit, CI/CD, Docker",
+        "Jenkins",
+        "RDK platform TDK auto test server",
+        "Android XTest"
+      ]
+    ]
+  ],
+  "jobs": [
+    {
+      "company": "Primax Electronics Ltd.",
+      "dates": "2026.03 - Present",
+      "paragraphs": [
+        "Job Title: Supervisor",
+        "Job Role: RTOS-based MCU system integration for IoT doorbells and IP cameras",
+        "Achievements: Brought at least two OEM products to mass production for the North American market and secured PoC approval",
+        "Summary Skill Set: C/C++, Python, Waf build system, RTOS, Software Architecture, SPI, I2C, UART, System Performance Optimization and Maintenance",
+        "1. RTOS-based MCU firmware bring-up and system integration for IoT doorbells and IP cameras",
+        "2. Customer-specific firmware development and HAL driver bring-up",
+        "3. BLE, Wi-Fi, and peripheral integration using I2C, SPI, and PWM, including PIR sensors, LEDs, image sensors, IR-cut filters, speakers, and keypads (8051-series MCU firmware development)",
+        "4. MCU OTA firmware update and Secure Boot integration"
+      ]
+    },
+    {
+      "company": "Wistron NeWeb Corporation (WNC Corp.)",
+      "dates": "Oct. 2023 - Dec. 2024",
+      "paragraphs": [
+        "Job Title: Technical Supervisor",
+        "Job Role: ADAS - BSP Integration Software Engineer, bring up platform and ADAS application, ROS2 applications, integrate automotive sensors.",
+        "Achievements: (Linux-based HPC for Automotive) Hsinchu Science Park - Innovation Product Award 2024",
+        "Summary Skill Set: C/C++, Python, Yocto build, ROS2 porting, Software Architecture, OpenCV porting, AI NPU application porting, SPI, I2C, MIPI-CSI, CAN bus, UART, RADAR DBC file parsing, System performance maintenance.",
+        "1. Platform Bring-Up: Designed the main Linux-based BSP software architecture for Yocto-built Linux-based embedded systems. Ported Ubuntu 20.04 and ROS2 Humble to the embedded platform. Integrated automotive sensors (IMU, CSI cameras, RADAR, CAN bus) with protocols such as I2C, UART, SPI, CAN bus, and ROS2 DDS (TCP/IP-based).",
+        "2. AI Acceleration Integration: Deployed and optimized AI (ADAS) applications on embedded systems leveraging AI hardware modules for performance enhancement. ADAS applications, including lane departure warning, vehicle/bicyclist/pedestrian detection, and front collision warning.",
+        "3. ROS2 Application Development: Built ROS2 applications to parse peripheral sensor data from the embedded platform to PC."
+      ]
+    },
+    {
+      "company": "ITRI (Industrial Technology Research Institute)",
+      "dates": "Jan. 2022 - Oct. 2023",
+      "paragraphs": [
+        "Job Title: Associate Researcher",
+        "Job Role: Autonomous Mobile Robot Control System (ACS) Design and Software Dev. Engineer",
+        "Achievements: ACS deployment Industry 4.0 case in San Sing Fastech Crop.",
+        "Summary Skill Set: C/C++, Python, PostgreSQL, ROS2, TCP/IP Socket Programming, Gazebo, Docker (Server), Task management algorithm design",
+        "1. ACS Algorithm Development and Research: Designed and implemented algorithms for Autonomous Mobile Robots (AMR), including task management, charging policies, and navigation strategies.",
+        "2. ROS Navigation and Management Software Development: Developed software for robot navigation and management using the Robot Operating System (ROS).",
+        "3. ROS System Integration: Integrated ROS-based systems to ensure interoperability and seamless communication between components.",
+        "4. MQTT & ROS DDS Communication: Developed applications utilizing MQTT and ROS DDS for TCP/IP and UDP-based communication."
+      ]
+    },
+    {
+      "company": "Mediatek",
+      "dates": "Dec. 2018 - Aug. 2021",
+      "paragraphs": [
+        "Job Title: Senior Software Engineer",
+        "Job Role: Set-Top Box Department. DRM-Driver dev. and CAS Certification API implementation",
+        "Achievements: CAS-Verimatrix Chip certification 2019 for Mediatek chip",
+        "Summary Skill Set: C/C++, DRM (Keymaster, Gatekeeper, PlayReady 4.0), OP-TEE Trusted Application Programming, Android X Test, Android IPC Programming, CAS (Verimatrix) STB ECM & EMM Video Streaming SDK Programming and Testing, Jenkins Services, Coverity Code Scan, Black Duck Hub Scan",
+        "1. DRM - Keymaster 4 & Gatekeeper: Upgraded and maintained Keymaster 4/ Gatekeeper security patches, including HIDL driver and OP-TEE Trusted Application (TA) integration, with support for PIC.",
+        "2. DRM - PlayReady 4.0: Developed and upgraded PlayReady 4.0 drivers and OP-TEE Trusted Applications.",
+        "3. CAS System Certification: Led CAS (Conditional Access System) chip certification projects.",
+        "4. Middleware Integration: Integrated proprietary Set-Top Box middleware SDK with CAS APIs using Linux IPC and Android Binder IPC.",
+        "5. CAS Integration on Android: Integrated CAS systems (e.g., Verimatrix) on the Android P platform.",
+        "6. CAS Auto Test Services: Deployed automated testing services for CAS systems, including Verimatrix, Irdeto, and Nagra."
+      ]
+    },
+    {
+      "company": "MStar Semiconductor (merged into Mediatek)",
+      "dates": "Feb. 2017 - Dec. 2018",
+      "paragraphs": [
+        "Job Title: Senior Software Engineer",
+        "Job Role: Set-Top Box(STB) Platform Team RDK platform bring up and multimedia software framework, CAS API integration",
+        "Summary Skill Set: C/C++, RDK Platform Bring-Up, STB ECM & EMM API Programming, GStreamer Porting, GStreamer Issue Debugging, RDK Platform TDK Testing.",
+        "1. RDK Platform porting: Ported and debugged the RDK platform based on MStar's linux kernel and hardware drivers",
+        "2. RDK Platform Multimedia Framework: Ported and debugged the GStreamer multimedia framework for the RDK platform, ensuring seamless integration and performance optimization.",
+        "3. RDK Platform TDK Testing: Designed and executed testing plans using the RDK Test Development Kit (TDK) and hosted the TDK testing server for efficient validation.",
+        "4. Middleware SDK Development and Maintenance: Developed and maintained MStar proprietary middleware SDK APIs for STB ECM and EMM protocols, bridging the kernel driver and application layer within the BSP."
+      ]
+    },
+    {
+      "company": "GIGABYTE",
+      "dates": "Oct. 2015 - Dec. 2016",
+      "paragraphs": [
+        "Job Title: Software Engineer",
+        "Job Role: TI-RTOS MCU firmware dev., Android App & Test Utility programs dev.",
+        "Achievements: PIXER E-paper photo frame",
+        "Summary Skill Set: C/C++, Java, C#, TI-RTOS MCU programming, Android 4.4 application programming, SPI protocol programming, OTA Firmware update programming, TCP/IP Socket programming, GIT source code control (gitolite)",
+        "1. PIXER Project: Developed BSP software for PIXER, an e-ink IoT photo frame project, using the TI-RTOS system.",
+        "2. iOS Wi-Fi Communication App: Designed and developed a Wi-Fi TCP/IP socket communication application for iOS to interface with IoT photo frames.",
+        "3. Android Wi-Fi Communication App: Created a Wi-Fi TCP/IP socket communication application for Android, enabling connectivity with large e-ink photo frames used as advertising boards.",
+        "4. Mass Production Utility: Developed utility programs to assist factory operators in verifying PCB IEEE 802.11 certification test cases, ensuring compliance and quality during mass production."
+      ]
+    },
+    {
+      "company": "Industry-university cooperative research project: Computer vision 2D barcode decoding in embedded systems",
+      "dates": "2013 - 2014",
+      "paragraphs": [
+        "Job Title: N/A",
+        "Job Role: Data Matrix decode algorithm",
+        "Summary Skill Set: C, 2D barcode decode algorithm, ECC algorithm",
+        "1. Data Matrix decode algorithm: Data matrix decode algorithm library released on embedded barcode scanner",
+        "2. ECC algorithm: Reed Solomon Error Correction Code integration with Data matrix algorithm"
+      ]
+    },
+    {
+      "company": "Grandsys",
+      "dates": "Oct. 2010 - Oct. 2011",
+      "paragraphs": [
+        "Job Title: Software and Algorithm Engineer",
+        "Job Role: Enterprise Resource Planning(ERP) algorithm design and maintenance",
+        "Summary Skill Set: C#, WPF, .NET framework, Microsoft(R) SQL",
+        "Grandsys is a company that provides headphones, recording equipment and management system for telephone customer service center.",
+        "1. ERP Human resource planning algorithm: Develop agent resources management system, and customize algorithm for ChungHwa telecom co. ltd",
+        "2. Application software development: .NET Framework windows client application development."
+      ]
+    }
+  ],
+  "achievements": [
+    "Real-Time Pedestrian Detection Using Compound Contour-Based Features - CVGIP 2015",
+    "ISO 26262 Certified Functional Safety Engineer Training Course\nFunctional Safety Management\nSystem Level and Hardware Level Implementation of ISO 26262\nSoftware Level Implementation of ISO 26262",
+    "Hsinchu Science Park - Innovation Product Award 2024\nhttps://www.wnc.com.tw/en/news/675bed2533373/detail\nhttps://shorturl.at/iHwYM",
+    "ACS deployment Industry 4.0 case in San Sing Fastech Crop.",
+    "CAS-Verimatrix Chip certification 2019 for Mediatek chip",
+    "PIXER E-paper photo frame",
+    "Akatsuki game hackathon 2016, First place\n腹肌獵人 Abdominal muscle Hunter\nA 30-hour game development hackathon; we developed a somatosensory game on mobile phone with Unity. Users shoot arrows to fight against high-calorie monsters by doing sit-ups."
+  ]
+}
