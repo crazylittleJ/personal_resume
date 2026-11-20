@@ -1,6 +1,6 @@
 # EJ Huang Resume — GitHub Pages
 
-此版本已加入 Primax Electronics Ltd.，2026.03 - Present 的經歷。保留原履歷內容，僅修正少數拼字、大小寫及排版。
+此版本已加入 Primax Electronics Ltd.，2025.03 - Present 的經歷。保留原履歷內容，僅修正少數拼字、大小寫及排版。
 
 ## 本機查看
 

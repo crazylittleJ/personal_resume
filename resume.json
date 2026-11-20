@@ -37,6 +37,7 @@
     [
       "System Integration",
       [
+        "RTOS system integration",
         "ROS system integration",
         "Multimedia application",
         "BSP system integration with Linux-based systems",
@@ -59,7 +60,7 @@
   "jobs": [
     {
       "company": "Primax Electronics Ltd.",
-      "dates": "2026.03 - Present",
+      "dates": "2025.03 - Present",
       "paragraphs": [
         "Job Title: Supervisor",
         "Job Role: RTOS-based MCU system integration for IoT doorbells and IP cameras",
@@ -67,7 +68,7 @@
         "Summary Skill Set: C/C++, Python, Waf build system, RTOS, Software Architecture, SPI, I2C, UART, System Performance Optimization and Maintenance",
         "1. RTOS-based MCU firmware bring-up and system integration for IoT doorbells and IP cameras",
         "2. Customer-specific firmware development and HAL driver bring-up",
-        "3. BLE, Wi-Fi, and peripheral integration using I2C, SPI, and PWM, including PIR sensors, LEDs, image sensors, IR-cut filters, speakers, and keypads (8051-series MCU firmware development)",
+        "3. BLE, Wi-Fi, and peripheral integration using I2C, SPI, and PWM, including PIR sensors, LEDs, image sensors, IR-cut filters, speakers, ALS and keypads (8051-series MCU firmware development)",
         "4. MCU OTA firmware update and Secure Boot integration"
       ]
     },
